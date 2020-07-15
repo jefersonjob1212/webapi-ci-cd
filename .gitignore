@@ -1,2 +1,6 @@
+## Ignore .vscode
+.vscode/
+
+## Ignore build dir
 [Bb]in/
 [Oo]bj/
